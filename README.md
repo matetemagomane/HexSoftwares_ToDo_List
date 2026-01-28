@@ -43,4 +43,4 @@ This is a fully functional to-do list application that allows users to add, comp
 This project was completed as part of the Hex Software Internship Program - Web Development Domain.
 
 ---
-© 2025 Matete Magomane. All rights reserved.
+© 2026 Matete Magomane. All rights reserved.
